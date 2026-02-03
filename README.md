@@ -32,11 +32,6 @@
 </picture>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Soumaditya-Kashyap&theme=neon&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Soumaditya-Kashyap&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumaditya-Kashyap&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soumaditya-Kashyap&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
