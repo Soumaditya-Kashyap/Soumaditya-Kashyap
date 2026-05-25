@@ -40,7 +40,7 @@
 
  <div align="center">Visitors count</div>
       <div align="center">
-        <img src="https://profile-counter.glitch.me/LungsomLamniov/count.svg"/>
+        <img src="https://profile-counter.glitch.me/Soumaditya-Kashyap/count.svg"/>
       </div>
 
 ### 🔝 Top Contributed Repo
