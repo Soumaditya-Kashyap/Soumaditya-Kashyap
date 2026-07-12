@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://neofetch-profile.vercel.app/api?username=Soumaditya-Kashyap&theme=radical" alt="Neofetch Stats">
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Hey there👋, Welcome to my Github Profile
@@ -6,6 +10,9 @@
  
 <p>– <i>A tech enthusiast and self-driven developer with a strong passion for crafting seamless mobile and web experiences. Actively exploring Flutter, Firebase, and modern backend technologies. Recognized for sharp problem-solving skills, clean code practices, and a creative flair for UI/UX design. Currently leading app development as the App Dev Lead at GDG on Campus, ADTU. I thrive in collaborative environments and love transforming ideas into impactful digital solutions.</i></p>
 
+---
+
+---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
